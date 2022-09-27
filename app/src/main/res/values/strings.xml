@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaiTap2_1</string>
+    <string name="login">Đăng nhập</string>
+    <string name="user_name">User name</string>
+    <string name="input_id">nhập id</string>
+    <string name="input_password">nhập mật khẩu</string>
+    <string name="password">Password</string>
+    <string name="ok">OK</string>
+    <string name="exit">Hủy</string>
+    <string name="forgot_password">Quên MK</string>
+</resources>
